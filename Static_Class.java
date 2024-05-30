@@ -1,4 +1,5 @@
-/* An codergym exercise of static classes/methods */
+/* An codergym exercise of static classes/methods
+TO EXECUTE THIS CODE PLEASE CHANGE THE FILE NAME AS " Main.java "  */
 
 
 
